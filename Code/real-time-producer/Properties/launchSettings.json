@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "real_time_producer": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

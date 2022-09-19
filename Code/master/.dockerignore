@@ -1,0 +1,11 @@
+# Docker
+Dockerfile
+
+# Python
+venv
+
+# Windows scripts
+*.ps1
+
+# PyCharm
+.idea
